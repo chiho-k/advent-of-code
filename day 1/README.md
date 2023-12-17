@@ -13,3 +13,4 @@ The calibration value is a number that combines the first and last numbers into 
 Part 2:
 Single digit numbers written in text also count as digits for the calibration value e.g. 7pqrstsixteen makes 76. 
 
+My solution requires the csv module.
